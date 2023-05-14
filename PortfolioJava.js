@@ -1,6 +1,3 @@
-
-
-
 function openLang(evt, languageName) {
   // Declare all variables
   var i, tabcontent, tablinks;
