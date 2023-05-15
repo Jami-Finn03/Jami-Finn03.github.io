@@ -136,6 +136,8 @@ button:hover {
 
 img{
 	float: right;
-	width: 46%;
+	padding: 8px;
+	width: 40%;
+	height: 50%;
 	border: 10px double #ECF7D2;
 }
