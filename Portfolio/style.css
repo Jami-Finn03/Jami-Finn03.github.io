@@ -29,7 +29,7 @@ h2{
 	background-color: #AABD8C;
 	padding: 10px;
 	border: 6px double #F7E5D1;
-	min-width: 50%;
+	width: 50%;
 }	
 h3{
 	text-align: left;
@@ -37,8 +37,7 @@ h3{
 	background-color: #AABD8C;
 	padding: 6px;
 	border-bottom: 6px double #F7E5D1;
-	width: fit-content;
-	min-width: 50%;
+	width: 50%
 }
 h4{
 	text-align: left;
@@ -48,7 +47,7 @@ h4{
 	padding: 10px;
 	width: fit-content;
 	border: 6px double #846C5B;
-	min-width: 50%;
+	width: 50%;
 }
 	
 p{
@@ -58,7 +57,7 @@ p{
 	border: 6px double #2E5339;
 	color:#2E5339;
 	background-color:#F7E5D1;
-	min-width: 50%;
+	width: 50%;
 }
 	/* Style the tab */
 .tab {
@@ -138,5 +137,5 @@ button:hover {
 img{
 	float: right;
 	width: 46%;
-	border: 2% double #ECF7D2;
+	border: 10px double #ECF7D2;
 }
