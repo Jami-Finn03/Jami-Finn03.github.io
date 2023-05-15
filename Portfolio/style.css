@@ -140,4 +140,5 @@ button:hover {
 img{
 	float: right;
 	width: 46%;
+	border: 2% double #ECF7D2;
 }
